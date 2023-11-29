@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../img/logotipost.png';
+import logo from '../assets/logotipost.png';
 
 export default function Inicio() {
   return (
