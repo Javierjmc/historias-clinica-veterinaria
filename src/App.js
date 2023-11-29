@@ -1,3 +1,5 @@
+import './App.css'
+
 import Inicio from './componentes/Inicio';
 import DatosGenerales from './componentes/DatosGenerales';
 import Anamnesicos from './componentes/Anamnesicos';
